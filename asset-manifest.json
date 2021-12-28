@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Test90/static/css/main.b54dbc1f.chunk.css",
+    "main.js": "/React-Test90/static/js/main.beff5085.chunk.js",
+    "main.js.map": "/React-Test90/static/js/main.beff5085.chunk.js.map",
+    "runtime-main.js": "/React-Test90/static/js/runtime-main.f5ef0c0a.js",
+    "runtime-main.js.map": "/React-Test90/static/js/runtime-main.f5ef0c0a.js.map",
+    "static/css/2.01c51683.chunk.css": "/React-Test90/static/css/2.01c51683.chunk.css",
+    "static/js/2.289e5b1d.chunk.js": "/React-Test90/static/js/2.289e5b1d.chunk.js",
+    "static/js/2.289e5b1d.chunk.js.map": "/React-Test90/static/js/2.289e5b1d.chunk.js.map",
+    "static/js/3.b47e4841.chunk.js": "/React-Test90/static/js/3.b47e4841.chunk.js",
+    "static/js/3.b47e4841.chunk.js.map": "/React-Test90/static/js/3.b47e4841.chunk.js.map",
+    "index.html": "/React-Test90/index.html",
+    "static/css/2.01c51683.chunk.css.map": "/React-Test90/static/css/2.01c51683.chunk.css.map",
+    "static/css/main.b54dbc1f.chunk.css.map": "/React-Test90/static/css/main.b54dbc1f.chunk.css.map",
+    "static/js/2.289e5b1d.chunk.js.LICENSE.txt": "/React-Test90/static/js/2.289e5b1d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5ef0c0a.js",
+    "static/css/2.01c51683.chunk.css",
+    "static/js/2.289e5b1d.chunk.js",
+    "static/css/main.b54dbc1f.chunk.css",
+    "static/js/main.beff5085.chunk.js"
+  ]
+}
